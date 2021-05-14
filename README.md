@@ -1,2 +1,2 @@
-# Arduino_Roombakart
+# Arduino_Roombakar
 Nuestro proyecto final de de la asignatura de SEyTR, es el Roombakart, es un coche autónomo fabricado a partir de un Arduino Uno, cartón para el chasis, un par de ruedas, motores, tanto para las ruedas como para el aspirador, sensores de ultrasonidos, un servo y muchos cables. La funcionalidad del mismo, es localizar obstáculos con un sensor de ultrasonidos para así poder evitarlos y tomar una ruta alternativa que le permita seguir avanzando mientras aspira con una manguera. Además,  hicimos que el Roombakart emitiera sonidos cuando detectaba un objeto delante.
