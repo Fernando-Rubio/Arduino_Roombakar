@@ -67,12 +67,12 @@ void loop() {
     delay(300);
     distIzq = miraIzquierda();
     delay(300);
-    //si puede girar izquierda
+    //si puede girar a derecha
     if (dist >= distIzq) {
       giro_derecha();
       parada();
     }
-    //si no gira derecha
+    //si no, gira izquierda
     else {
       giro_izquierda();
       parada();
